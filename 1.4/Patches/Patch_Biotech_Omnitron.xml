@@ -3,14 +3,14 @@
 
 	<!-- Gestate -->
 	<Operation Class="PatchOperationInsert">
-		<xpath>Defs/ThingDef[defName="LargeMechGestator"]/recipes/li[1]</xpath>
+		<xpath>Defs/ThingDef[defName="MechGestator"]/recipes/li[1]</xpath>
 		<order>Append</order>
 		<value><li>Omnitron</li></value>
 	</Operation>
 
 	<!-- Resurrect -->
 	<Operation Class="PatchOperationInsert">
-		<xpath>Defs/RecipeDef[defName="ResurrectMediumMech"]/fixedIngredientFilter/thingDefs/li[1]</xpath>
+		<xpath>Defs/RecipeDef[defName="ResurrectLightMech"]/fixedIngredientFilter/thingDefs/li[1]</xpath>
 		<order>Append</order>
 		<value><li>Corpse_Mech_Omnitron</li></value>
 	</Operation>

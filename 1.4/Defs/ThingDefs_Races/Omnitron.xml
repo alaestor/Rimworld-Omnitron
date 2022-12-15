@@ -27,7 +27,7 @@
 			<intelligence>ToolUser</intelligence>
 			<thinkTreeMain>Mechanoid</thinkTreeMain>
 			<mechFixedSkillLevel>18</mechFixedSkillLevel>
-			<mechWeightClass>Medium</mechWeightClass>
+			<mechWeightClass>Light</mechWeightClass>
 			<mechEnabledWorkTypes>
 				<li>Hauling</li>
 				<li>Construction</li>
