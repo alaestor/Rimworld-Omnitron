@@ -109,10 +109,10 @@
 				<drawWithNoSelection>True</drawWithNoSelection>
 				<reactivateEffect>BulletShieldGenerator_Reactivate</reactivateEffect>
 				<activeSound>BulletShield_Ambience</activeSound>
-				<hitPoints>80</hitPoints>
+				<hitPoints>100</hitPoints>
 				<hitPointsRestoreInstantlyAfterCharge>true</hitPointsRestoreInstantlyAfterCharge>
 				<!-- 40s recharge, 20s emp (60tps) -->
-				<chargeDurationTicks>2400</chargeDurationTicks>
+				<chargeDurationTicks>1200</chargeDurationTicks>
 				<disarmedByEmpForTicks>1200</disarmedByEmpForTicks>
 				<gizmoTipKey>ProjectileInterceptorTip</gizmoTipKey>
 			</li>
