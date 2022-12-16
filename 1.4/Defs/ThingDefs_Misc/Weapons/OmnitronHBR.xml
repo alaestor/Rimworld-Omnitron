@@ -15,9 +15,9 @@
 		<isRanged>true</isRanged>
 		<makesAnimalsFlee>true</makesAnimalsFlee>
 		<defaultDamage>13</defaultDamage>
-		<defaultArmorPenetration>0.5</defaultArmorPenetration>
-		<buildingDamageFactorImpassable>0.5</buildingDamageFactorImpassable>
-		<buildingDamageFactorPassable>0.2</buildingDamageFactorPassable>
+		<defaultArmorPenetration>0.6</defaultArmorPenetration>
+		<buildingDamageFactorImpassable>0.7</buildingDamageFactorImpassable>
+		<buildingDamageFactorPassable>0.4</buildingDamageFactorPassable>
 	</DamageDef>
 
 	<ThingDef ParentName="BaseGun">
