@@ -10,20 +10,20 @@
 			<BandwidthCost>6</BandwidthCost> <!-- could start the game with one -->
 			<MoveSpeed>3.6</MoveSpeed>
 			<ControlTakingTime>38</ControlTakingTime>
-			<ArmorRating_Blunt>0.20</ArmorRating_Blunt>
-			<ArmorRating_Sharp>0.30</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.30</ArmorRating_Blunt>
+			<ArmorRating_Sharp>0.65</ArmorRating_Sharp>
 			<EnergyShieldRechargeRate>0.5</EnergyShieldRechargeRate>
 			<EnergyShieldEnergyMax>0.6</EnergyShieldEnergyMax>
 			<ConstructionSpeed>0.6</ConstructionSpeed>
 			<FoodPoisonChance>0.01</FoodPoisonChance>
 			<PlantWorkSpeed>0.85</PlantWorkSpeed>
 			<CleaningSpeed>0.6</CleaningSpeed>
-			<MechEnergyLossPerHP>0.40</MechEnergyLossPerHP>
+			<MechEnergyLossPerHP>0.25</MechEnergyLossPerHP>
 		</statBases>
 		<race>
 			<body>Mech_Omnitron</body>
 			<baseBodySize>1.0</baseBodySize>
-			<baseHealthScale>1.0</baseHealthScale>
+			<baseHealthScale>1.3</baseHealthScale>
 			<intelligence>ToolUser</intelligence>
 			<thinkTreeMain>Mechanoid</thinkTreeMain>
 			<mechWeightClass>Medium</mechWeightClass>
