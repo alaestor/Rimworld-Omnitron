@@ -129,28 +129,20 @@
 		<lifeStages>
 			<li>
 				<bodyGraphicData>
-					<texPath>Things/Pawn/Mechanoid/Omnitron</texPath>
-					<maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Omnitron</maskPath>
+					<texPath>Things/Pawn/Mechanoid/Lifter</texPath>
+					<maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Liftman</maskPath>
 					<shaderType>CutoutWithOverlay</shaderType>
 					<graphicClass>Graphic_Multi</graphicClass>
-					<drawSize>1.6</drawSize>
-					<shadowData>
-						<volume>(0.3, 0.4, 0.3)</volume>
-						<offset>(0,0,-0.25)</offset>
-					</shadowData>
+					<drawSize>1.1</drawSize>
 				</bodyGraphicData>
 			</li>
 			<li>
 				<bodyGraphicData>
-					<texPath>Things/Pawn/Mechanoid/Omnitron</texPath>
-					<maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Omnitron</maskPath>
+					<texPath>Things/Pawn/Mechanoid/Lifter</texPath>
+					<maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Liftman</maskPath>
 					<shaderType>CutoutWithOverlay</shaderType>
 					<graphicClass>Graphic_Multi</graphicClass>
-					<drawSize>1.6</drawSize>
-					<shadowData>
-						<volume>(0.3, 0.4, 0.3)</volume>
-						<offset>(0,0,-0.25)</offset>
-					</shadowData>
+					<drawSize>1.1</drawSize>
 				</bodyGraphicData>
 			</li>
 		</lifeStages>
