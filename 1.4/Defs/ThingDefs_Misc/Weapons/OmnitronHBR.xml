@@ -38,13 +38,13 @@
 			<AccuracyShort>0.75</AccuracyShort>
 			<AccuracyMedium>0.85</AccuracyMedium>
 			<AccuracyLong>0.80</AccuracyLong>
-			<RangedWeapon_Cooldown>1.6</RangedWeapon_Cooldown>
+			<RangedWeapon_Cooldown>1.3</RangedWeapon_Cooldown>
 		</statBases>
 		<verbs>
 			<li>
 				<verbClass>Verb_ShootBeam</verbClass>
 				<hasStandardCommand>true</hasStandardCommand>
-				<warmupTime>3.2</warmupTime>
+				<warmupTime>2.6</warmupTime>
 				<range>33.9</range>
 				<minRange>2.5</minRange>
 				<burstShotCount>2</burstShotCount>
