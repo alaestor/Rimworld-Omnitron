@@ -38,13 +38,13 @@
 			<AccuracyShort>0.75</AccuracyShort>
 			<AccuracyMedium>0.85</AccuracyMedium>
 			<AccuracyLong>0.80</AccuracyLong>
-			<RangedWeapon_Cooldown>1.5</RangedWeapon_Cooldown>
+			<RangedWeapon_Cooldown>1.6</RangedWeapon_Cooldown>
 		</statBases>
 		<verbs>
 			<li>
 				<verbClass>Verb_ShootBeam</verbClass>
 				<hasStandardCommand>true</hasStandardCommand>
-				<warmupTime>3.1</warmupTime>
+				<warmupTime>3.2</warmupTime>
 				<range>33.9</range>
 				<minRange>2.5</minRange>
 				<burstShotCount>2</burstShotCount>
@@ -89,7 +89,7 @@
 				<li>Poke</li>
 				</capacities>
 				<power>9</power>
-				<cooldownTime>2</cooldownTime>
+				<cooldownTime>2.3</cooldownTime>
 			</li>
 		</tools>
 	</ThingDef>
